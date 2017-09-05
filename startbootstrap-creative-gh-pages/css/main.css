@@ -1,0 +1,35 @@
+﻿* {
+box-sizing: border-box;
+}
+body {
+background-color:white;
+}
+.mNav {
+padding:20px;
+margin:0;
+}
+.navbar {
+margin-bottom:0;
+background-color:white;
+border:none;
+}
+.textSize {
+font-size:15px
+}
+.sileder {
+margin:0;
+padding:0;
+}
+.teacherDiv {
+position:absolute;
+top:110%;
+left:8.4%;
+height:600px;
+background-color:white;
+}
+footer{
+    background-color:#7a6252;
+}
+.P-slider {
+font-size:30px;
+}
